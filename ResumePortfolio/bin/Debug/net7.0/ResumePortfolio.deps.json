@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ResumePortfolio/1.0.0": {
+        "runtime": {
+          "ResumePortfolio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ResumePortfolio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
